@@ -103,7 +103,7 @@
 
 
 	<h1>American Muscle </h1>
-	<img src="https://images-na.ssl-images-amazon.com/images/I/91yMqg-g8WL.jpg" alt="america muscle car"
+	<img src="https://images-na.ssl-images-amazon.com/images/I/91yMqg-g8WL.jpg" alt="america muscle car">
 
 	<h2>Historia de los automoviles Americanos </h2>
 
@@ -128,7 +128,7 @@ A partir de 2006, Dodge decidió renovar sus modelos más famosos con una aparie
 
 Con el increíble poder de este motor y sus fuertes líneas deportivas, tanto Dodge Challenger, como Charger, continúan con el legado, que hizo a los muscle cars tan populares, kilómetro a kilómetro.</p>
 
-	<img id="American Muscle Car" src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F654640495809681345%2F&psig=AOvVaw0wwJMW5zLiDSO5qQmP889U&ust=1600635269501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi39ZON9usCFQAAAAAdAAAAABAO">
+	<img id="American Muscle Car" src= https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F654640495809681345%2F&psig=AOvVaw0wwJMW5zLiDSO5qQmP889U&ust=1600635269501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi39ZON9usCFQAAAAAdAAAAABAO" alt="americano">
 
 	<ul>
 		<li><a href="#ford mustang">Ford Mustang</a></li>
@@ -139,7 +139,7 @@ Con el increíble poder de este motor y sus fuertes líneas deportivas, tanto Do
 
 	<h2 id="Mustang">Mustang</h2>
 
-	<img id="mustang" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motorpasion.com.mx%2Fford%2Fford-mustang-1968-motor-mustang-actual&psig=AOvVaw1akJDsCyyRZV6xARRBbMzI&ust=1600637349199000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj8_vKU9usCFQAAAAAdAAAAABAD" width= "500" alt="ford mustang"
+	<img id="mustang" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motorpasion.com.mx%2Fford%2Fford-mustang-1968-motor-mustang-actual&psig=AOvVaw1akJDsCyyRZV6xARRBbMzI&ust=1600637349199000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj8_vKU9usCFQAAAAAdAAAAABAD" width= "500" alt="ford mustang">
 
 	<p>El Ford Mustang es un automóvil deportivo del fabricante estadounidense Ford Motor Company. Originalmente fue concebido por Lee Iacocca como un concurso entre departamento como algo personal y deportivo que atraería a las mujeres. El Mustang debutó en 1964 con un precio de $2,368 dólares, con ventas anuales estimadas de 100 mil unidades. Las ventas del primer año superaron las 400 mil unidades y fueron de un millón en dos años.</p>
 
