@@ -103,8 +103,7 @@
 
 
 	<h1>American Muscle </h1>
-	<img id="American1" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdrivetribe.com%2Fp%2Fmy-american-muscle-car-dream-is-O7Z2KE58SDGJS5N-lSLK3w&psig=AOvVaw0wwJMW5zLiDSO5qQmP889U&ust=1600635269501000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKi39ZON9usCFQAAAAAdAAAAABAD
-" alt="american muscle car"> <p>estos son los  legendarios autos americanos de la decada de los 60 y 70 <atarget="blank" href=https://es.wikipedia.org/wiki/Ingenier%C3%ADa_automotriz</p>.
+	<img src="https://images-na.ssl-images-amazon.com/images/I/91yMqg-g8WL.jpg" alt="america muscle car"
 
 	<h2>Historia de los automoviles Americanos </h2>
 
@@ -140,7 +139,7 @@ Con el increíble poder de este motor y sus fuertes líneas deportivas, tanto Do
 
 	<h2 id="Mustang">Mustang</h2>
 
-	<img id="mustang" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motorpasion.com.mx%2Fford%2Fford-mustang-1968-motor-mustang-actual&psig=AOvVaw1akJDsCyyRZV6xARRBbMzI&ust=1600637349199000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj8_vKU9usCFQAAAAAdAAAAABAD" width= "500">
+	<img id="mustang" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.motorpasion.com.mx%2Fford%2Fford-mustang-1968-motor-mustang-actual&psig=AOvVaw1akJDsCyyRZV6xARRBbMzI&ust=1600637349199000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPj8_vKU9usCFQAAAAAdAAAAABAD" width= "500" alt="ford mustang"
 
 	<p>El Ford Mustang es un automóvil deportivo del fabricante estadounidense Ford Motor Company. Originalmente fue concebido por Lee Iacocca como un concurso entre departamento como algo personal y deportivo que atraería a las mujeres. El Mustang debutó en 1964 con un precio de $2,368 dólares, con ventas anuales estimadas de 100 mil unidades. Las ventas del primer año superaron las 400 mil unidades y fueron de un millón en dos años.</p>
 
@@ -150,7 +149,7 @@ Con el increíble poder de este motor y sus fuertes líneas deportivas, tanto Do
     
     <h2 id="camaro">Camaro</h2>
      
-     <img id="camaro" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taringa.net%2F%2Bautos_motos%2Fchevrolet-camaro-ss-1969-un-clasico-de-clasicos_tyl7y&psig=AOvVaw0qvH2LW7owWpjp_ulc7kjt&ust=1600637730659000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICV06mW9usCFQAAAAAdAAAAABAD">
+     <img id="camaro" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taringa.net%2F%2Bautos_motos%2Fchevrolet-camaro-ss-1969-un-clasico-de-clasicos_tyl7y&psig=AOvVaw0qvH2LW7owWpjp_ulc7kjt&ust=1600637730659000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCICV06mW9usCFQAAAAAdAAAAABAD" alt="chevrolet camaro">
 
      <p>El Chevrolet Camaro es un auto deportivo producido por el fabricante estadounidense Chevrolet (división de GM). Se clasifica como un pony car y en algunas versiones también como un muscle car. El Camaro surgió como la respuesta de General Motors al creador del segmento de los "pony cars": el Ford Mustang.</p>
 
@@ -167,7 +166,7 @@ El Z/28 fue presentado en diciembre de 1966 para el año modelo 1967. Este paque
     
      <h2 id="Chevelle">Chevelle</h2>
 
-     <img id="chevelle" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taringa.net%2F%2Bautos_motos%2Fchevrolet-chevelle-ss-malibu-1970_si4yw&psig=AOvVaw1jdD9N6xAWoj1d2jr5y7jP&ust=1600638118548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDgheOX9usCFQAAAAAdAAAAABAD">
+     <img id="chevelle" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.taringa.net%2F%2Bautos_motos%2Fchevrolet-chevelle-ss-malibu-1970_si4yw&psig=AOvVaw1jdD9N6xAWoj1d2jr5y7jP&ust=1600638118548000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNDgheOX9usCFQAAAAAdAAAAABAD" alt="chevrolet chevelle">
 
      <p>El Chevrolet Chevelle SS fue la respuesta de Chevrolet al Pontiac GTO, el modelo que inició la fiebre de los ‘muscle car’ americanos (ya sabes, modelos ‘mid-size’ como dicen ellos, motores V6 y V8 y eje rígido...). El que aparece en la película forma parte de la segunda generación (1968-1972) y es del año 1970. Para ese año el Chevelle recibió numerosos cambios estéticos que lo hacían un poco más cuadrado que su predecesor, pero mantenía el ‘punch’ de los deportivos ‘yankies’ de la época.</p>
 
@@ -178,11 +177,11 @@ El Z/28 fue presentado en diciembre de 1966 para el año modelo 1967. Este paque
 
      <h2 id="challenger">Dodge challenger</h2>
 
-     <img id="InA" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cargurus.com%2Fes%2Fl-1970-Dodge-Challenger-Usados-c6483&psig=AOvVaw1x1BvECZE-rJL7Axx69wXk&ust=1600638574613000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDNlryZ9usCFQAAAAAdAAAAABAD" alt="Inteligencia Artificial">
+     <img id="challenger" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cargurus.com%2Fes%2Fl-1970-Dodge-Challenger-Usados-c6483&psig=AOvVaw1x1BvECZE-rJL7Axx69wXk&ust=1600638574613000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDNlryZ9usCFQAAAAAdAAAAABAD" alt="Inteligencia Artificial" alt="dodge challenger">
 <p> El Dodge Challenger es un automóvil de tipo muscle car fabricado por la compañía automovilística estadounidense Dodge, del grupo Chrysler, desde 1970. Desde entonces, se han producido dos generaciones del Challenger: 1970-1974 y 2008 hasta la fecha. Disponible a la venta en Estados Unidos, Canadá y también en México. Hoy en día se está produciendo el Dodge Challenger Hellcat el cual tiene más de 707CV y es apto para las carreras debido a su potencia y carrocería la cual es más liviana que la del Hellcat SRT.<p/>
 
 
-     <img id="pandemia6" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autobild.es%2Freportajes%2Fcinco-muscle-cars-mas-excitantes-todos-los-tiempos-237211&psig=AOvVaw2ncTKINV3AnhWFgsqSLXrl&ust=1600639110056000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC7vryb9usCFQAAAAAdAAAAABAD">
+     <img id="american6" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.autobild.es%2Freportajes%2Fcinco-muscle-cars-mas-excitantes-todos-los-tiempos-237211&psig=AOvVaw2ncTKINV3AnhWFgsqSLXrl&ust=1600639110056000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKC7vryb9usCFQAAAAAdAAAAABAD"alt="los carros americanos">
 
      <p id="final">Conducir un coche que esconde un gran motor bajo el capó supone una comodidad a diario. Hablo de cosas tan sencillas como las revoluciones a las que gira el motor cuando circulamos por autopista, la necesidad de bajar una o varias marchas para adelantar o, sencillamente, el hecho de que nuestro coche no tenga que ir acariciando la zona roja del cuentarrevoluciones para lograr adelantar a otro vehículo en un tiempo y espacio razonables.
 
